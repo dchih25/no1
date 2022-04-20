@@ -9,6 +9,7 @@ public class SLF4J {
   public static void main(String[] args) {
     LOGGER.info("Hello World");
     System.out.println("Hello World");
+    System.out.println("Hello World1");
 
   }
 }
